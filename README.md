@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @taysbookbabel or Tay!
+- 👀 I’m interested in neuroscience, coding, books, and a whole bunch of other things, but computers have always been a part of my life
+- 🌱 I’m currently learning python, game design, content creation, and C++
+- 💞️ I’m looking to collaborate on games, projects, and growth in computer science
+- 📫 How to reach me: tayalexa18@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I used to be super into performance (Music)
+
+<!---
+taysbookbabel/taysbookbabel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
