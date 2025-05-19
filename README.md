@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taysbookbabel or Tay!
-- 👀 I’m interested in neuroscience, coding, books, and a whole bunch of other things, but computers have always been a part of my life
+- 👀 I’m interested in neuroscience, coding, books, and a whole bunch of other things, but computers have always been a big part of my life
 - 🌱 I’m currently learning python, game design, content creation, and C++
 - 💞️ I’m looking to collaborate on games, projects, and growth in computer science
 - 📫 How to reach me: tayalexa18@gmail.com
